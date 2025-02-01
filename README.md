@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio website showcasing my work as a Frontend Web Developer and Python AI/ML Developer. Built with HTML, CSS, and JavaScript, featuring smooth animations and an engaging user interface.
 
-![Portfolio Preview](https:///800x400)
+![Portfolio Preview](https://portfolio_Website/images/Screenshot 2025-02-02 024525.png/800x400)
 
 ## ✨ Features
 
