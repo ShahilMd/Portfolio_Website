@@ -2,7 +2,7 @@
 
 A modern, interactive portfolio website showcasing my work as a Frontend Web Developer and Python AI/ML Developer. Built with HTML, CSS, and JavaScript, featuring smooth animations and an engaging user interface.
 
-![Portfolio Preview](https://github.com/ShahiMd/portfolio_Website/images/Screenshot 2025-02-02 024525.png)
+![Portfolio Preview](https://github.com/ShahilMd/Portfolio_Website/blob/main/portfolio_Website/images/Screenshot%202025-02-02%20024525.png)
 
 ## ✨ Features
 
